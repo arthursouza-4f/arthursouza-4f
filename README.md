@@ -18,3 +18,12 @@
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 </p>
 
+---
+
+
+### Você pode me achar nas redes sociais 🌍
+[<img align="left" alt="Arthur Vieira De Souza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="arthur_souzalk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
+---
+
