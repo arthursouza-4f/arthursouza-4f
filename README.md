@@ -27,9 +27,11 @@
 <a href="https://www.instagram.com/arthur_souzalk/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br/>
+
 ---
-###
+
+### Status 
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
