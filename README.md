@@ -27,16 +27,5 @@
 <a href="https://www.linkedin.com/in/arthur-vieira-de-souza-11985219a/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br>
----
-
-
-
-<p align="center">
-
-  <br/>
-   <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
 
 
