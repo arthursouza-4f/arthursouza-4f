@@ -1,6 +1,4 @@
 ### <h1 align="Center">Olá, Eu sou  o Arthur</h1>
-<p align="left">
-</p>
 
 ---
 
